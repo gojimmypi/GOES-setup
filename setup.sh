@@ -20,6 +20,7 @@ git clone https://github.com/hdoverobinson/wx-star_false-color.git
 # Open Satellite Project's goesdump
 # https://github.com/opensatelliteproject/goesdump.git
 
+# goestools (see also fork: https://github.com/creinemann/goestools)
 git clone --recursive https://github.com/pietern/goestools
 cd goestools
 mkdir build
